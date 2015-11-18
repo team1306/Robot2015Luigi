@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team1306.robot.Robot;
 
 /**
- * This is some test information to AMIT send
+ * This is some test information to send AMIT AGAIN
  */
 public class ExampleCommand extends Command {
 
